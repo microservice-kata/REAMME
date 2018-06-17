@@ -34,7 +34,7 @@
 
 
 ### 基础设施服务
-基础设施服务：服务网关，服务发现，服务注册，服务监控等。
+基础设施服务：服务网关，服务发现，服务注册，服务监控等。
 
 > ![Infrastructure Services](./diagram/infrastructure-services.png)
 
